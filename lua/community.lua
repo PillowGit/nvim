@@ -7,6 +7,4 @@ return {
 	"AstroNvim/astrocommunity",
 	{ import = "astrocommunity.completion.copilot-lua-cmp" },
 	{ import = "astrocommunity.pack.svelte" },
-	{ import = "astrocommunity.pack.python" },
-	{ import = "astrocommunity.pack.python-ruff" },
 }
